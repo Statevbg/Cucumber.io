@@ -1,2 +1,8 @@
-# Exercise automation UI testing via cucumber, selenium, java and Junit.
-## This is project for exercise and learning purpose. Using BDD framework.
+# ❓ What is this Cucumber project about?
+  Exercise automation UI web testing in BDD process.
+## Details about application under test
+- Application under test: https://admin-demo.nopcommerce.com
+## Tech Stack:
+-Java , Selenium WebDriver, Junit, Cucumber
+
+
